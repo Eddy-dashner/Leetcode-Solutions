@@ -8,4 +8,3 @@ To use the OddNumberDataStructure, simply create a new instance and pass in the 
 
 /** const oddNumbers = new OddNumberDataStructure([1, 2, 3, 4, 5]); **/
 /** const result = oddNumbers.getOddNumbers(); // result will be [1, 3, 5] **/
-abakadabra
